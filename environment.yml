@@ -1,0 +1,9 @@
+name: tulipomania
+dependencies:
+- python
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- pip:
+  - requests
